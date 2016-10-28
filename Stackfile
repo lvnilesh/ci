@@ -2,3 +2,5 @@ ci-demo:
   image: 'lvnilesh/ci:latest'
   tags:
     - ci
+  ports:
+    - "80:80"
