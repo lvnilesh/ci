@@ -1,0 +1,4 @@
+ci-demo:
+  image: 'lvnilesh/ci:latest'
+  tags:
+    - ci
